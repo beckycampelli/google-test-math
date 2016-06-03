@@ -1,7 +1,7 @@
 // adapted from: 
 // yolinux.com/TUTORIALS/Cpp-GoogleTest.html
 
-rm#ifndef MATH_H
+#ifndef MATH_H
 #define MATH_H
 
 class Addition 
