@@ -1,6 +1,6 @@
 #include <limits.h>
 #include "gtest/gtest.h"
-#include "Multiply.h"
+#include "Math.h"
 
 class AdditionTest : public ::testing::Test {
  protected:
